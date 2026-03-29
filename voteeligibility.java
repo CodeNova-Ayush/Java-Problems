@@ -7,7 +7,7 @@ public class voteeligibility {
         if(num>=18)
             System.out.println("Eligible to vote");
         else
-            System.out.println("Growww first then come to Vote");
+            System.out.println("Growwww first then come to Vote");
         age.close();
 
 
