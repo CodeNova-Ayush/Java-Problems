@@ -1,4 +1,4 @@
- public class Case6Djagged{
+public class Case6Djagged{
     public static void main(String[] args) {
 
         int[][][] a = new int[2][][];
