@@ -11,7 +11,7 @@ public class case4D{
         System.out.print("Enter number of blocks: ");
         int b = sc.nextInt();
 
-        System.out.print("Enter number of rows: ");
+        System.out.print("Enterr number of rows: ");
         int r = sc.nextInt();
 
         System.out.print("Enter number of columns: ");
