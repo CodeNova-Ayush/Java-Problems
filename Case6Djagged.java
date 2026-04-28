@@ -13,10 +13,10 @@ public class Case6Djagged{
         a[1][1] = new int[4];
         a[1][2] = new int[3];
 
-        a[0][0][0] = 100;
+        a[0][0][0] = 1000;
         a[0][0][1] = 200;
 
-        a[1][1][2] = 50;
+        a[1][1][2] = 5000;
 
         for(int i = 0; i < a.length; i++) {
             System.out.println("School " + i);
