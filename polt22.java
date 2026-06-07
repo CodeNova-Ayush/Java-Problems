@@ -21,6 +21,6 @@ public class polt22 {
 
         System.out.println(c.add(10, 20));
         System.out.println(c.add(10, 20, 30));
-        System.out.println(c.add(10.5, 20.5));
+        System.out.println(c.add(10.5, 250.5));
     }
 }
