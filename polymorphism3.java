@@ -23,6 +23,6 @@ public class polymorphism3 {
         Dog d = new Dog();
 
         d.type();
-        System.out.println("hello namaste duniya");
+        System.out.println("hello namaste duniya ...");
     }
 }
