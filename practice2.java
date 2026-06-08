@@ -15,7 +15,7 @@ public class practice2 {
         s.favcricketer = "sachin";
         s.age =20;
         s.salary=10000000;
-
+         System.out.println(name + " " + favcricketer + " " + age + " " + salary );
         s.display();
 
     }
