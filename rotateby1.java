@@ -27,7 +27,7 @@ public class rotateby1 {
         System.out.println("Array after rotation:");
 
         for (int i = 0; i < n; i++) {
-            System.out.print(arr[i] + " ");
+            System.out.print(arr[i] + " " + "qwerty");
         }
 
         sc.close();
