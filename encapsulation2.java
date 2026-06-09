@@ -22,6 +22,7 @@ class Employee {
 
         else {
             System.out.println("Invalid Salary");
+            System.out.println("Enter Valid Salary");
         }
     }
 
