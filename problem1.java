@@ -15,5 +15,6 @@ public class problem1 {
         s.roll = 10;
 
         s.display();
+        System.out.println(name + " " + roll);
     }
 }
